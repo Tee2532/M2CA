@@ -1,0 +1,24 @@
+<style>
+         p.one {
+                  border-style: solid;
+                  border-color: orange;
+                  background: black;
+                  color: white;
+         }
+         p.two {
+                  border-style: solid;
+                  border-color: red;
+                  background: green;
+                  color: pink;
+         }
+         p.three {
+                  border-style: solid;
+                  border-color: green;
+                  background: pink;
+         }
+         p.four {
+                  border-style: solid;
+                  border-color: blue;
+                  background: white;
+         }
+      </style>
